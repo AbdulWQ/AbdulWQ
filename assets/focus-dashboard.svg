@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering focus dashboard</title>
+  <desc id="desc">Four panels covering firmware, platforms, interfaces, and workflow.</desc>
+  <rect width="900" height="240" rx="22" fill="#0d1117"/>
+  <rect x="1" y="1" width="898" height="238" rx="21" fill="none" stroke="#30363d" stroke-width="2"/>
+  <text x="38" y="48" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="750">Engineering focus</text>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <g transform="translate(38 72)"><rect width="190" height="128" rx="14" fill="#161b22" stroke="#1f6feb"/><circle cx="30" cy="31" r="13" fill="#1f6feb"/><text x="54" y="38" fill="#f0f6fc" font-size="18" font-weight="700">Firmware</text><text x="20" y="76" fill="#8b949e" font-size="15">Embedded C</text><text x="20" y="101" fill="#8b949e" font-size="15">Zephyr RTOS · HAL</text></g>
+    <g transform="translate(250 72)"><rect width="190" height="128" rx="14" fill="#161b22" stroke="#238636"/><circle cx="30" cy="31" r="13" fill="#238636"/><text x="54" y="38" fill="#f0f6fc" font-size="18" font-weight="700">Platforms</text><text x="20" y="76" fill="#8b949e" font-size="15">STM32F446RE</text><text x="20" y="101" fill="#8b949e" font-size="15">Nordic nRF52840</text></g>
+    <g transform="translate(462 72)"><rect width="190" height="128" rx="14" fill="#161b22" stroke="#8957e5"/><circle cx="30" cy="31" r="13" fill="#8957e5"/><text x="54" y="38" fill="#f0f6fc" font-size="18" font-weight="700">Interfaces</text><text x="20" y="76" fill="#8b949e" font-size="15">SPI · ADC · GPIO</text><text x="20" y="101" fill="#8b949e" font-size="15">Displays · sensors</text></g>
+    <g transform="translate(674 72)"><rect width="188" height="128" rx="14" fill="#161b22" stroke="#d29922"/><circle cx="30" cy="31" r="13" fill="#d29922"/><text x="54" y="38" fill="#f0f6fc" font-size="18" font-weight="700">Workflow</text><text x="20" y="76" fill="#8b949e" font-size="15">CMake · west</text><text x="20" y="101" fill="#8b949e" font-size="15">Git · ST-Link</text></g>
+  </g>
+</svg>

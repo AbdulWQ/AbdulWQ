@@ -1,14 +1,13 @@
 <div align="center">
 
+![Embedded systems banner](./assets/embedded-banner.svg)
+
 # Hi, I'm Abdul 👋
 
 ### Embedded systems · Firmware · Hardware-software integration
 
 I build hands-on embedded projects around microcontrollers, real-time firmware,
 custom hardware, displays, sensors, and the tooling that makes them work together.
-
-![Profile views](https://komarev.com/ghpvc/?username=AbdulWQ&style=for-the-badge&color=0969da)
-![Followers](https://img.shields.io/github/followers/AbdulWQ?style=for-the-badge&logo=github&label=Followers)
 
 </div>
 
@@ -24,16 +23,7 @@ custom hardware, displays, sensors, and the tooling that makes them work togethe
 
 ## 🧰 Tools and technologies
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Zephyr_RTOS-6B4C9A?style=for-the-badge&logo=zephyrproject&logoColor=white" alt="Zephyr RTOS">
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32">
-  <img src="https://img.shields.io/badge/Nordic_nRF52840-00A9CE?style=for-the-badge&logo=nordicsemiconductor&logoColor=white" alt="Nordic nRF52840">
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
+`C` · `Python` · `Zephyr RTOS` · `STM32` · `Nordic nRF52840` · `CMake` · `west` · `Git`
 
 ---
 
@@ -50,7 +40,7 @@ two-player gameplay · STM32CubeIDE/ST-Link workflow
 
 <div align="center">
   <a href="https://github.com/AbdulWQ/Game-Over">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulWQ&repo=Game-Over&theme=transparent&hide_border=true" alt="Game Over repository card">
+    <img src="./assets/game-over-card.svg" alt="Game Over project card">
   </a>
 </div>
 
@@ -66,39 +56,15 @@ sensor drivers · CMake/west tooling · hands-on documentation
 
 <div align="center">
   <a href="https://github.com/AbdulWQ/eie_nrf52840">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulWQ&repo=eie_nrf52840&theme=transparent&hide_border=true" alt="Embedded in Embedded repository card">
+    <img src="./assets/eie-card.svg" alt="Embedded in Embedded project card">
   </a>
 </div>
 
 ---
 
-## 📊 GitHub at a glance
+## 📊 Engineering at a glance
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AbdulWQ&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AbdulWQ&show_icons=true&theme=default&hide_border=true&rank_icon=github">
-  <img alt="Abdul's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=AbdulWQ&show_icons=true&hide_border=true&rank_icon=github">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWQ&layout=donut&theme=github_dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWQ&layout=donut&theme=default&hide_border=true">
-  <img alt="Abdul's most-used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWQ&layout=donut&hide_border=true">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AbdulWQ&theme=github-dark-blue&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=AbdulWQ&theme=default&hide_border=true">
-  <img alt="Abdul's contribution streak" src="https://streak-stats.demolab.com?user=AbdulWQ&hide_border=true">
-</picture>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulWQ&theme=github-compact&hide_border=true&area=true" alt="Abdul's contribution activity graph">
-
-<sub>Language statistics describe public repository contents and do not necessarily represent proficiency.</sub>
-
-</div>
+![Engineering focus dashboard](./assets/focus-dashboard.svg)
 
 ---
 

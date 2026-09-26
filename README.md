@@ -1,86 +1,56 @@
-<div align="center">
+# Abdul Wahab
 
-![Embedded systems banner](./assets/embedded-banner.svg)
+Embedded systems, firmware, and hardware development.
 
-# Hi, I'm Abdul 👋
+I work with STM32 and Nordic microcontrollers, Zephyr RTOS, sensors, displays,
+custom electronics, and electromechanical systems.
 
-### Embedded systems · Firmware · Hardware-software integration
+## Selected work
 
-I build hands-on embedded projects around microcontrollers, real-time firmware,
-custom hardware, displays, sensors, and the tooling that makes them work together.
+### WayBionic
 
-</div>
+Development of a robotic arm covering mechanical prototyping, joint actuation,
+motor control, CAN communication, power distribution, and controller hardware.
 
----
+<p align="center">
+  <img src="./assets/waybionic.png" alt="WayBionic robotic arm prototype" width="70%">
+</p>
 
-## 🔧 What I work on
+### Prosthetic Sensor Sock
 
-- **Embedded firmware** for Nordic Semiconductor and STM32 microcontrollers
-- **Zephyr RTOS** applications, custom boards, drivers, and device-tree bindings
-- **Interactive hardware** using displays, joysticks, sensors, SPI, ADC, and GPIO
-- **Engineering education** through practical embedded-systems lessons and examples
-- **Prototype-to-product workflows** using CMake, west, STM32CubeIDE, and Git
+A pressure-sensing prosthetic interface developed through sensor characterization,
+textile integration, multiplexed acquisition electronics, custom PCBs, and live
+pressure visualization.
 
-## 🧰 Tools and technologies
+<p align="center">
+  <img src="./assets/sensor-sock.png" alt="Prosthetic sensor sock demonstration system" width="70%">
+</p>
 
-`C` · `Python` · `Zephyr RTOS` · `STM32` · `Nordic nRF52840` · `CMake` · `west` · `Git`
+### [Game Over](https://github.com/AbdulWQ/Game-Over)
 
----
+An STM32F446RE handheld game system with analog controls and an SPI display.
+The repository documents the hardware and embedded Pong implementation.
 
-## 🚀 Featured projects
-
-### 🎮 Game Over — STM32 handheld Pong
-
-An embedded Pong game for the **STM32F446RE**, derived from custom controller
-hardware. Two analog joystick axes control independent paddles, while an
-**ST7789 240×240 display** is driven over SPI.
-
-**Highlights:** dual ADC input · SPI display rendering · STM32 HAL · embedded C ·
-two-player gameplay · STM32CubeIDE/ST-Link workflow
-
-<div align="center">
+<p align="center">
   <a href="https://github.com/AbdulWQ/Game-Over">
-    <img src="./assets/game-over-card.svg" alt="Game Over project card">
+    <img src="./assets/game-over.png" alt="STM32 handheld controller prototype" width="70%">
   </a>
-</div>
+</p>
 
-### 📡 Embedded in Embedded — nRF52840
+### Space Rover
 
-Firmware and learning material for the University of Calgary's
-**Embedded in Embedded** mentoring program. The project is built around the
-Nordic **nRF52840 development kit** and **Zephyr RTOS**, with examples spanning
-custom boards, drivers, device-tree bindings, libraries, and lessons.
+A mobile robotics platform integrating mechanical systems, drive electronics,
+sensors, control hardware, and a custom manipulator.
 
-**Highlights:** Zephyr RTOS · nRF52840 · custom board definitions · GPIO drivers ·
-sensor drivers · CMake/west tooling · hands-on documentation
+<p align="center">
+  <img src="./assets/space-rover.png" alt="Space rover prototype" width="70%">
+</p>
 
-<div align="center">
-  <a href="https://github.com/AbdulWQ/eie_nrf52840">
-    <img src="./assets/eie-card.svg" alt="Embedded in Embedded project card">
-  </a>
-</div>
+### [Embedded in Embedded](https://github.com/AbdulWQ/eie_nrf52840)
 
----
+Firmware and instructional material for the University of Calgary's Embedded in
+Embedded mentoring program, built around the nRF52840 and Zephyr RTOS.
 
-## 📊 Engineering at a glance
+## Technical areas
 
-![Engineering focus dashboard](./assets/focus-dashboard.svg)
-
----
-
-## 🧭 Current direction
-
-```text
-Build the hardware → write the firmware → test the system → document the result
-```
-
-I'm continuing to explore embedded development through practical projects that
-connect low-level software with real, observable hardware behavior.
-
-<div align="center">
-
-### Thanks for visiting
-
-Explore the repositories below to see the implementation details.
-
-</div>
+`C` · `Python` · `STM32` · `nRF52840` · `Zephyr RTOS` · `SPI` · `ADC` · `CAN` · `CMake` · `west` · `Git`

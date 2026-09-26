@@ -1,7 +1,11 @@
 # Abdul Waase Qureshi - EE @ UofC - Robotics, Health Tech, Embedded Systems
 
-I work with STM32 and Nordic microcontrollers, Zephyr RTOS, sensors, displays,
-custom electronics, and electromechanical systems.
+Electrical and computer engineering work spanning embedded systems, PCB design,
+radar signal processing, sensing systems, and robotics.
+
+I develop research prototypes from the hardware up: custom circuit boards and
+firmware, followed by Python and MATLAB tools for data acquisition,
+visualization, testing, and analysis.
 
 ## Selected work
 
@@ -23,6 +27,13 @@ pressure visualization.
 <p align="center">
   <img src="./assets/sensor-sock.png" alt="Prosthetic sensor sock demonstration system" width="70%">
 </p>
+
+### Radar-Based Cycling Analysis
+
+Research into contactless measurement of lower-limb motion during stationary
+cycling using millimetre-wave radar. This work includes radar placement studies,
+Python and MATLAB acquisition and visualization tools, velocity analysis,
+inter-leg comparison, and lateral knee-motion measurement.
 
 ### [Game Over](https://github.com/AbdulWQ/Game-Over)
 
@@ -51,4 +62,4 @@ Embedded mentoring program, built around the nRF52840 and Zephyr RTOS.
 
 ## Technical areas
 
-`C` · `Python` · `STM32` · `nRF52840` · `Zephyr RTOS` · `SPI` · `ADC` · `CAN` · `CMake` · `west` · `Git`
+`C` · `Python` · `MATLAB` · `STM32` · `ESP32` · `PCB design` · `Altium Designer` · `mmWave radar` · `Signal processing` · `Data acquisition` · `CAN` · `SPI` · `ADC` · `Git`

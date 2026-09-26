@@ -1,6 +1,4 @@
-# Abdul Wahab
-
-Embedded systems, firmware, and hardware development.
+# Abdul Waase Qureshi - EE @ UofC - Robotics, Health Tech, Embedded Systems
 
 I work with STM32 and Nordic microcontrollers, Zephyr RTOS, sensors, displays,
 custom electronics, and electromechanical systems.

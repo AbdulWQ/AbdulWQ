@@ -18,14 +18,18 @@ motor control, CAN communication, power distribution, and controller hardware.
   <img src="./assets/waybionic.png" alt="WayBionic robotic arm prototype" width="70%">
 </p>
 
-### Prosthetic Sensor Sock
+### [Prosthetic Sensor Sock](https://github.com/Project-90-UCalgary/prosthetic-smart-sock)
 
-A pressure-sensing prosthetic interface developed through sensor characterization,
-textile integration, multiplexed acquisition electronics, custom PCBs, and live
-pressure visualization.
+A Project 90 research prototype for measuring pressure at the residual-limb/socket
+interface. I worked on sensor integration, multiplexed data acquisition, custom
+PCBs, wireless ESP32 transmission, and MATLAB visualization. The public repository
+contains project documentation, a research abstract, the final poster, and
+presentations; development code remains private.
 
 <p align="center">
-  <img src="./assets/sensor-sock.png" alt="Prosthetic sensor sock demonstration system" width="70%">
+  <a href="https://github.com/Project-90-UCalgary/prosthetic-smart-sock">
+    <img src="./assets/sensor-sock.png" alt="Prosthetic sensor sock demonstration system" width="70%">
+  </a>
 </p>
 
 ### Radar-Based Cycling Analysis
